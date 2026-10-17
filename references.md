@@ -1,3 +1,8 @@
+---
+layout: default
+title: References
+---
+
 # References
 
 [Home](index.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)

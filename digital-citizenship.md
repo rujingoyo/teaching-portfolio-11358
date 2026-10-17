@@ -1,3 +1,8 @@
+---
+layout: default
+title: Digital Citizenship
+---
+
 # Digital Citizenship page
 
 [Home](index.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)
@@ -33,19 +38,19 @@ Check AI regulations and permissions, including which AI models are permitted an
 
 ### The problem
 
-Positive numbers \(x\) and \(y\) satisfy
+Positive numbers $x$ and $y$ satisfy
 
 $$
 x^2+4xy+4y^2-6x-12y=7.
 $$
 
-Evaluate \(x+2y\).
+Evaluate $x+2y$.
 
 ### AI-assisted response sample
 
 Source: GPT-5, 07/2026. Reformatted.
 
-> I will treat the equation as a quadratic in \(x\):
+> I will treat the equation as a quadratic in $x$:
 >
 > $$
 > x^2+\left(4y-6\right)x+\left(4y^2-12y-7\right)=0
@@ -63,7 +68,7 @@ Source: GPT-5, 07/2026. Reformatted.
 > x=\frac{-\left(4y-6\right)\pm8}{2}=7-2y\mathrm{\ or\ }-1-2y
 > $$
 >
-> Because \(x\) and \(y\) are positive, the second value is impossible. Hence \(x+2y=7\).
+> Because $x$ and $y$ are positive, the second value is impossible. Hence $x+2y=7$.
 
 ## Audit
 
@@ -77,7 +82,7 @@ annotate the response
 
 ### Purpose?
 
-- What purpose does it serve to treat the expression as a quadratic in \(x\)?
+- What purpose does it serve to treat the expression as a quadratic in $x$?
 - What is the purpose of using the discriminant?
 
 ### Explainable?
@@ -86,7 +91,7 @@ annotate the response
 
 ### Efficient?
 
-- Observe \(x^2+4xy+4y^2=\left(x+2y\right)^2\) and \(-6x-12y=-6\left(x+2y\right)\)
+- Observe $x^2+4xy+4y^2=\left(x+2y\right)^2$ and $-6x-12y=-6\left(x+2y\right)$
 - Could you use fewer calculations by using the above observation?
 
 ## Teacher answer
@@ -97,7 +102,7 @@ $$
 \left(x+2y\right)^2-6\left(x+2y\right)=7
 $$
 
-Let \(t=x+2y\)
+Let $t=x+2y$
 
 $$
 t^2-6t=7
