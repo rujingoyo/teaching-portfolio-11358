@@ -9,7 +9,3 @@ My teaching philosophy is that conceptual understanding and procedural fluency s
 Wellbeing in mathematical learning is highly relevant, as maths anxiety and performance are closely correlated (Carey et al., 2016). The environment I aim to create is a safe place where students can express confusion, engage in trial and error and seek help while maintaining cognitive challenges.
 
 This teaching resource asks students to critically analyse AI’s approach to a problem by verifying, interpreting and comparing the methods. AI will act as a material that promotes critical thinking and mathematical reasoning, rather than an agent for replacement.
-
----
-
-[Home](index.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)
