@@ -4,4 +4,4 @@ A digital teaching portfolio exploring purposeful and ethical AI use in Year 10 
 
 ## View the portfolio
 
-[Open the published teaching portfolio](https://rujingoyo.github.io/teaching-portfolio-11358/)
+[Open the teaching portfolio](index.md)
