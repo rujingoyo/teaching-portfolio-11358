@@ -97,7 +97,9 @@ $$
 \left(x+2y\right)^2-6\left(x+2y\right)=7
 $$
 
-Let $t=x+2y$
+$$
+\text{Let }t=x+2y
+$$
 
 $$
 t^2-6t=7
@@ -116,3 +118,7 @@ t=x+2y=7>0
 $$
 
 Both methods are correct. Which would you choose, and why? Compare their structure, efficiency, explainability and connection to the requested expression.
+
+---
+
+[Home](index.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)

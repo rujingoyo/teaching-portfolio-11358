@@ -13,3 +13,7 @@ In addition to the mathematical learning goal, safety and human agency are also 
 This teaching resource also supports wellbeing. As students’ maths anxiety and performance are often negatively correlated, the activity aims to reduce the demand for external responses while encouraging individual thinking and preserving the challenges.
 
 Finally, the resource addresses all three Unit Learning Outcomes, including safe, responsible and transparent AI use, a curriculum-aligned digital learning activity that develops mathematical reasoning, and structured prompts, accessible presentation and multiple ways for participation.
+
+---
+
+[Home](index.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)

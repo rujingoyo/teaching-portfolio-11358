@@ -25,3 +25,7 @@ ULO1 is demonstrated through protecting privacy and verifying AI-generated conte
 ULO2 is demonstrated through a curriculum-aligned activity addressing AC9M10A01 (ACARA, n.d.), in which students use algebra to construct mathematical reasoning.
 
 ULO3 is demonstrated through accessible multimodal design, structured engagement and a psychologically safer entry into mathematical dialogue.
+
+---
+
+[Home](index.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)
