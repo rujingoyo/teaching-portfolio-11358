@@ -67,7 +67,7 @@ Source: GPT-5, 07/2026. Reformatted.
 
 ## Audit
 
-annotate the response
+Annotate the response.
 
 ### Correct?
 

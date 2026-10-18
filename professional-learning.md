@@ -2,6 +2,12 @@
 
 [Home](index.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)
 
+## Design rationale video
+
+[![Watch the design rationale video on YouTube](https://img.youtube.com/vi/PUwO5fetA0s/hqdefault.jpg)](https://youtu.be/PUwO5fetA0s)
+
+[Watch video](https://youtu.be/PUwO5fetA0s) | [Transcript](speech.md)
+
 ## Pedagogical purpose
 
 I chose a teaching resource that includes a correct, yet less structurally direct AI response over an incorrect hallucination. This design guides students to think in terms of clarity, efficiency and logic, rather than teaching students that the AI solution is incorrect.
