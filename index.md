@@ -1,6 +1,6 @@
 # Home Page
 
-[Home](index.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)
+[Home](index.md) | [Teaching Resources](teaching-resources.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)
 
 I am a pre-service secondary teacher specialising in Mathematics and Computing and currently completing a Master of Secondary Teaching at the University of Canberra. My practice includes curriculum-aligned planning, differentiated instruction, formative assessment and the creation of positive learning environments.
 

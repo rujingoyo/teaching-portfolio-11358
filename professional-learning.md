@@ -1,6 +1,6 @@
 # Professional Learning Page
 
-[Home](index.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)
+[Home](index.md) | [Teaching Resources](teaching-resources.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)
 
 ## Design rationale video
 
@@ -34,4 +34,4 @@ ULO3 is demonstrated through accessible multimodal design, structured engagement
 
 ---
 
-[Home](index.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)
+[Home](index.md) | [Teaching Resources](teaching-resources.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)

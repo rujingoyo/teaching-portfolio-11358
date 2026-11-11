@@ -1,6 +1,6 @@
 # Speech
 
-[Home](index.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)
+[Home](index.md) | [Teaching Resources](teaching-resources.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)
 
 Hello, and welcome to my digital teaching portfolio. I will go through my Year 10 Mathematics resource, which teaches students to critically analyse an AI-generated solution. The resource is aligned with the Australian Curriculum, which emphasises factorising and simplifying algebraic expressions using mathematical laws and properties. However, I want students to both achieve the correct answers and evaluate the AI method through a discussion of correctness, purpose, explainability and efficiency.
 
@@ -16,4 +16,4 @@ Finally, the resource addresses all three Unit Learning Outcomes, including safe
 
 ---
 
-[Home](index.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)
+[Home](index.md) | [Teaching Resources](teaching-resources.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)

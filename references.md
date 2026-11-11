@@ -1,6 +1,6 @@
 # References
 
-[Home](index.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)
+[Home](index.md) | [Teaching Resources](teaching-resources.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)
 
 Australian Curriculum, Assessment and Reporting Authority. (n.d.). Mathematics: Year 10. Australian Curriculum, Version 9.0. https://www.australiancurriculum.edu.au/f-10-curriculum/learning-areas/mathematics/year-10
 

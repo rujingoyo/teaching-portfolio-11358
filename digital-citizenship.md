@@ -1,6 +1,6 @@
 # Digital Citizenship page
 
-[Home](index.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)
+[Home](index.md) | [Teaching Resources](teaching-resources.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)
 
 **Year 10 Mathematics | Ethical AI use | [AC9M10A01](<https://www.australiancurriculum.edu.au/f-10-curriculum/learning-areas/mathematics/year-10/content-description?subject-identifier=MATMATY10&content-description-code=AC9M10A01&detailed-content-descriptions=0&hide-ccp=0&hide-gc=0&side-by-side=1&strands-start-index=0&subjects-start-index=MATMATY10&view=quick&load-detailed-content-descriptions=0>)**
 
@@ -121,4 +121,4 @@ Both methods are correct. Which would you choose, and why? Compare their structu
 
 ---
 
-[Home](index.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)
+[Home](index.md) | [Teaching Resources](teaching-resources.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)
