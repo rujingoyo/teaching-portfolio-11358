@@ -12,30 +12,15 @@ I can use angle relationships to find unknown angles and explain why each step i
 
 ## Angles at a point
 
-<video controls preload="metadata" width="960" style="max-width:100%;height:auto" aria-label="Angles at a point demonstration">
-  <source src="animations/Angles%20at%20a%20Point%20Animation.mp4" type="video/mp4">
-  Your viewer may not support embedded video. Use the animation link below.
-</video>
-
-[Open animation](<animations/Angles at a Point Animation.mp4>)
+https://github.com/user-attachments/assets/10071964-09a2-43e7-b316-02f75d43bcc4
 
 ## Parallel lines
 
-<video controls preload="metadata" width="960" style="max-width:100%;height:auto" aria-label="Parallel lines and angle relationships demonstration">
-  <source src="animations/Parallel%20Lines%20Animation.mp4" type="video/mp4">
-  Your viewer may not support embedded video. Use the animation link below.
-</video>
-
-[Open animation](<animations/Parallel Lines Animation.mp4>)
+https://github.com/user-attachments/assets/cceb9b30-2919-457e-8a18-71b4556c4a80
 
 ## Triangles
 
-<video controls preload="metadata" width="960" style="max-width:100%;height:auto" aria-label="Triangle angle properties demonstration">
-  <source src="animations/Triangles%20Animation.mp4" type="video/mp4">
-  Your viewer may not support embedded video. Use the animation link below.
-</video>
-
-[Open animation](<animations/Triangles Animation.mp4>)
+https://github.com/user-attachments/assets/b1e7725f-0dcf-471c-9b60-fa958bf06e02
 
 ---
 
