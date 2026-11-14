@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/cceb9b30-2919-457e-8a18-71b4556c4a80
 
 ## Triangles
 
-https://github.com/user-attachments/assets/b1e7725f-0dcf-471c-9b60-fa958bf06e02
+https://github.com/user-attachments/assets/674f61ea-5a5a-4dbc-8bbc-0ac2fb1add30
 
 ---
 
