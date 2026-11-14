@@ -8,7 +8,7 @@
 - Replay as needed. Each clip is silent.
 
 - **Core:** Q2, Q4, Q7 and Q10.
-- **Developing:** Q1, Q3, Q5, Q6, Q8 and Q9.
+- **Develop:** Q1, Q3, Q5, Q6, Q8 and Q9.
 - **Challenge:** Q11, Q12.
 
 ## 1. Angles at a point
@@ -69,7 +69,7 @@ https://github.com/user-attachments/assets/cceb9b30-2919-457e-8a18-71b4556c4a80
 ## 3. Triangles
 
 <details>
-<summary>Animation · 2:49</summary>
+<summary>Animation · 2:48</summary>
 
 https://github.com/user-attachments/assets/674f61ea-5a5a-4dbc-8bbc-0ac2fb1add30
 
@@ -97,16 +97,16 @@ https://github.com/user-attachments/assets/674f61ea-5a5a-4dbc-8bbc-0ac2fb1add30
 ## 4. Combined reasoning
 
 <details>
-<summary>Example A · Add a parallel line · 1:40</summary>
+<summary>Example A · Add a parallel line · 1:39</summary>
 
-[Watch worked example A](animations/Question%201%20Animation.mp4)
+https://github.com/user-attachments/assets/614c431a-71cb-45ab-b82e-88c12e290052
 
 </details>
 
 <details>
-<summary>Example B · Resolve a reflex angle · 1:20</summary>
+<summary>Example B · Resolve a reflex angle · 1:19</summary>
 
-[Watch worked example B](animations/Question%202%20Animation.mp4)
+https://github.com/user-attachments/assets/8af457b5-1eec-4760-91c8-8ff7cc8da236
 
 </details>
 
@@ -147,7 +147,7 @@ https://github.com/user-attachments/assets/674f61ea-5a5a-4dbc-8bbc-0ac2fb1add30
 | Q9 | $x = 75^\circ$ | Exterior angle: $124^\circ - 49^\circ$ |
 | Q10 | $x = 38^\circ$; $y = 75^\circ$; $z = 113^\circ$ | Alternate angles; triangle sum; straight line |
 | Q11 | $x = 93^\circ$ | Through $R$, draw a parallel line; add $54^\circ$ and $39^\circ$ |
-| Q12 | No. $x$ stays $93^\circ$ | The two transferred angles remain $54^\circ$ and $39^\circ$ |
+| Q12 | No. $x$ stays $93^\circ$ | The lengths in these questions do not affect the measures of the angles. |
 
 </details>
 
