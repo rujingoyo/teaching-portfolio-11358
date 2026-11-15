@@ -1,6 +1,12 @@
 # Teaching Resource Rationale
 
-[Home](index.md) | [Teaching Resources](teaching-resources.md) | [Teaching Resource Rationale](teaching-resource-rationale.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)
+[Home](index.md) | [References](references.md)
+
+**Part A:** [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md)
+
+**Part B:** [Teaching Resources](teaching-resources.md) | [Teaching Resource Rationale](teaching-resource-rationale.md) | [Inclusive Practice](inclusive-practice.md)
+
+---
 
 This [Year 7 geometry resource](teaching-resources.md) combines teacher-narrated animations, whole-class discussion, differentiated exercises and digital submission. It targets [AC9M7M04 and AC9M7M05](https://www.australiancurriculum.edu.au/resources/work-samples/mathematics/year-7/ws01-geometric-reasoning/) on angles on parallel lines and triangles, as well as aims to build mathematical reasoning skills and procedural fluency. This resource operates around *Assessment in the Digital Age* to form a formative cycle where students submit reasoning and steps for exercises through the school’s digital system, followed by the teacher’s targeted feedback to check for misconceptions and weaknesses. In doing so, the digital platform holds evidence of students’ reasoning for the teacher to adapt further teaching strategies.
 
@@ -22,4 +28,10 @@ Digital platform submission retains students’ working, explanations and subseq
 
 ---
 
-[Home](index.md) | [Teaching Resources](teaching-resources.md) | [Teaching Resource Rationale](teaching-resource-rationale.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)
+[Home](index.md) | [References](references.md)
+
+**Part A:** [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md)
+
+**Part B:** [Teaching Resources](teaching-resources.md) | [Teaching Resource Rationale](teaching-resource-rationale.md) | [Inclusive Practice](inclusive-practice.md)
+
+---

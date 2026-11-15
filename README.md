@@ -1,6 +1,6 @@
 # Mathematics and AI Teaching Portfolio
 
-A digital teaching portfolio exploring purposeful and ethical AI use in Year 10 Mathematics.
+A secondary Mathematics portfolio exploring ethical AI use, animated geometry instruction, inclusive design and digital formative assessment.
 
 ## View the portfolio
 

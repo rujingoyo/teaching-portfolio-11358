@@ -1,6 +1,12 @@
 # Year 7 Geometry: Explain Your Angle Reasoning
 
-[Home](index.md) | [Teaching Resources](teaching-resources.md) | [Teaching Resource Rationale](teaching-resource-rationale.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)
+[Home](index.md) | [References](references.md)
+
+**Part A:** [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md)
+
+**Part B:** [Teaching Resources](teaching-resources.md) | [Teaching Resource Rationale](teaching-resource-rationale.md) | [Inclusive Practice](inclusive-practice.md)
+
+---
 
 **Curriculum:** [AC9M7M04 and AC9M7M05](https://www.australiancurriculum.edu.au/resources/work-samples/mathematics/year-7/ws01-geometric-reasoning/).
 
@@ -160,4 +166,10 @@ https://github.com/user-attachments/assets/8af457b5-1eec-4760-91c8-8ff7cc8da236
 
 ---
 
-[Home](index.md) | [Teaching Resources](teaching-resources.md) | [Teaching Resource Rationale](teaching-resource-rationale.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)
+[Home](index.md) | [References](references.md)
+
+**Part A:** [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md)
+
+**Part B:** [Teaching Resources](teaching-resources.md) | [Teaching Resource Rationale](teaching-resource-rationale.md) | [Inclusive Practice](inclusive-practice.md)
+
+---

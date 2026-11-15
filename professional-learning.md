@@ -1,6 +1,12 @@
 # Professional Learning Page
 
-[Home](index.md) | [Teaching Resources](teaching-resources.md) | [Teaching Resource Rationale](teaching-resource-rationale.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)
+[Home](index.md) | [References](references.md)
+
+**Part A:** [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md)
+
+**Part B:** [Teaching Resources](teaching-resources.md) | [Teaching Resource Rationale](teaching-resource-rationale.md) | [Inclusive Practice](inclusive-practice.md)
+
+---
 
 ## Design rationale video
 
@@ -34,4 +40,10 @@ ULO3 is demonstrated through accessible multimodal design, structured engagement
 
 ---
 
-[Home](index.md) | [Teaching Resources](teaching-resources.md) | [Teaching Resource Rationale](teaching-resource-rationale.md) | [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md) | [References](references.md)
+[Home](index.md) | [References](references.md)
+
+**Part A:** [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md)
+
+**Part B:** [Teaching Resources](teaching-resources.md) | [Teaching Resource Rationale](teaching-resource-rationale.md) | [Inclusive Practice](inclusive-practice.md)
+
+---
