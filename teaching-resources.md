@@ -2,9 +2,9 @@
 
 [Home](index.md) | [References](references.md)
 
-**Part A:** [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md)
+**Part A:** [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Part A Transcript](speech.md#part-a)
 
-**Part B:** [Teaching Resources](teaching-resources.md) | [Teaching Resource Rationale](teaching-resource-rationale.md) | [Inclusive Practice](inclusive-practice.md)
+**Part B:** [Teaching Resources](teaching-resources.md) | [Teaching Resource Rationale](teaching-resource-rationale.md) | [Inclusive Practice](inclusive-practice.md) | [Professional Learning](professional-learning-b.md) | [Part B Transcript](speech.md#part-b)
 
 ---
 
@@ -168,8 +168,8 @@ https://github.com/user-attachments/assets/8af457b5-1eec-4760-91c8-8ff7cc8da236
 
 [Home](index.md) | [References](references.md)
 
-**Part A:** [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md)
+**Part A:** [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Part A Transcript](speech.md#part-a)
 
-**Part B:** [Teaching Resources](teaching-resources.md) | [Teaching Resource Rationale](teaching-resource-rationale.md) | [Inclusive Practice](inclusive-practice.md)
+**Part B:** [Teaching Resources](teaching-resources.md) | [Teaching Resource Rationale](teaching-resource-rationale.md) | [Inclusive Practice](inclusive-practice.md) | [Professional Learning](professional-learning-b.md) | [Part B Transcript](speech.md#part-b)
 
 ---

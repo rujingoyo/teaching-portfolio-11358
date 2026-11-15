@@ -2,9 +2,9 @@
 
 [Home](index.md) | [References](references.md)
 
-**Part A:** [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md)
+**Part A:** [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Part A Transcript](speech.md#part-a)
 
-**Part B:** [Teaching Resources](teaching-resources.md) | [Teaching Resource Rationale](teaching-resource-rationale.md) | [Inclusive Practice](inclusive-practice.md)
+**Part B:** [Teaching Resources](teaching-resources.md) | [Teaching Resource Rationale](teaching-resource-rationale.md) | [Inclusive Practice](inclusive-practice.md) | [Professional Learning](professional-learning-b.md) | [Part B Transcript](speech.md#part-b)
 
 ---
 
@@ -30,8 +30,8 @@ Digital platform submission retains students’ working, explanations and subseq
 
 [Home](index.md) | [References](references.md)
 
-**Part A:** [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md)
+**Part A:** [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Part A Transcript](speech.md#part-a)
 
-**Part B:** [Teaching Resources](teaching-resources.md) | [Teaching Resource Rationale](teaching-resource-rationale.md) | [Inclusive Practice](inclusive-practice.md)
+**Part B:** [Teaching Resources](teaching-resources.md) | [Teaching Resource Rationale](teaching-resource-rationale.md) | [Inclusive Practice](inclusive-practice.md) | [Professional Learning](professional-learning-b.md) | [Part B Transcript](speech.md#part-b)
 
 ---
