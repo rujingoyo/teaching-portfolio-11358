@@ -1,7 +1,5 @@
 # Mathematics Teaching Portfolio
 
-**Mathematics & Computing · Secondary Education**
-
 [Home](index.md) | [References](references.md)
 
 **Part A:** [Digital Citizenship](digital-citizenship.md) | [Professional Learning](professional-learning.md) | [Speech](speech.md)
